@@ -1,0 +1,28 @@
+.container {
+  background-color: rgb(197, 196, 196);
+  width: 12rem;
+  height: 12rem;
+  border-radius: 0.3rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.container .circle {
+  background-color: rgba(255, 214, 11, 0.954);
+  border-radius: 50%;
+  height: 9rem;
+  width: 9rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+.container .circle button {
+  color: rgb(22, 22, 225);
+  padding: 0.2rem 0.4rem;
+  background-color: rgb(227, 239, 227);
+  font-size: 0.6rem;
+  border: none;
+  border-bottom: 1px solid rgb(30, 93, 220);
+  cursor: pointer;
+}

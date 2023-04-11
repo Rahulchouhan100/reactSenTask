@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/reactSenTask/static/css/main.b9f18e79.css",
+    "main.js": "/reactSenTask/static/js/main.18681e9a.js",
+    "index.html": "/reactSenTask/index.html",
+    "main.b9f18e79.css.map": "/reactSenTask/static/css/main.b9f18e79.css.map",
+    "main.18681e9a.js.map": "/reactSenTask/static/js/main.18681e9a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b9f18e79.css",
+    "static/js/main.18681e9a.js"
+  ]
+}

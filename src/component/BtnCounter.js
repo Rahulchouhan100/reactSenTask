@@ -3,11 +3,9 @@ import "./btnCounter.css";
 
 const BtnCounter = () => {
   const [counter, setCounter] = useState(1);
-  const [isRed, setIsRed] = useState(false);
 
   const handleCounter = () => {
     setCounter(counter + 1);
-    setIsRed(!isRed);
   };
 
   const formattedCounter = counter.toString().padStart(2, "0");

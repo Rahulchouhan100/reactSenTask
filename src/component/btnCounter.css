@@ -19,10 +19,9 @@
 }
 .container .circle button {
   color: rgb(22, 22, 225);
-  padding: 0.2rem 0.4rem;
-  background-color: rgb(227, 239, 227);
   font-size: 0.6rem;
   border: none;
   border-bottom: 1px solid rgb(30, 93, 220);
   cursor: pointer;
+  background-color: transparent;
 }

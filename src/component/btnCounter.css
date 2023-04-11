@@ -7,21 +7,3 @@
   justify-content: center;
   align-items: center;
 }
-.container .circle {
-  background-color: rgba(255, 214, 11, 0.954);
-  border-radius: 50%;
-  height: 9rem;
-  width: 9rem;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  flex-direction: column;
-}
-.container .circle button {
-  color: rgb(22, 22, 225);
-  font-size: 0.6rem;
-  border: none;
-  border-bottom: 1px solid rgb(30, 93, 220);
-  cursor: pointer;
-  background-color: transparent;
-}
